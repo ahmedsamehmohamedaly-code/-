@@ -1,0 +1,6 @@
+{
+  "name": "IronForge",
+  "description": "متتبع التمارين الذكي وبرامج الجيم وحاسبة الأوزان والأقراص — IronForge Gym & Strength Companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
